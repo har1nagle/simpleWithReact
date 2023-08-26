@@ -34,4 +34,7 @@ https://github.com/har1nagle/simpleWithReact/assets/123434008/a279ecb7-3ebb-4292
 ### Styling for ```App.css```
 
 * All styling for use one of this file
+# Project link
+[click](https://simplereactpage.netlify.app/)  
+thanks!!
 
